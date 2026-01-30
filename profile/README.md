@@ -1,8 +1,4 @@
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td valign="middle" align="center">
-<img width="400" height="1">
-<br>
+<p align="center">
 <a href="https://v3.nitro.build" target="_blank" rel="noopener noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://nitro.build/icon.svg">
@@ -14,14 +10,10 @@
 <strong>Nitro</strong>
 <br>
 <em>Ship Full-Stack Vite Apps!</em>
-</td>
-<td valign="middle" align="center">
-<img width="400" height="1">
-<table border="0" cellspacing="0" cellpadding="8">
-<tr><td align="center"><a href="https://v3.nitro.build/">🏠 Homepage</a></td></tr>
-<tr><td align="center"><a href="https://v3.nitro.build/docs/quick-start">🚀 Getting Started</a></td></tr>
-<tr><td align="center"><a href="https://discord.nitro.build"><strong>💬 Get involved!</strong></a></td></tr>
-</table>
-</td>
-</tr>
-</table>
+</p>
+
+<p align="center">
+<a href="https://v3.nitro.build/">🏠 Homepage</a> &nbsp;·&nbsp;
+<a href="https://v3.nitro.build/docs/quick-start">🚀 Getting Started</a> &nbsp;·&nbsp;
+<a href="https://discord.nitro.build"><strong>💬 Get involved!</strong></a>
+</p>
