@@ -13,7 +13,6 @@
 </p>
 
 <p align="center">
-<a href="https://v3.nitro.build/">🏠 Homepage</a> &nbsp;·&nbsp;
 <a href="https://v3.nitro.build/docs/quick-start">🚀 Getting Started</a> &nbsp;·&nbsp;
-<a href="https://discord.nitro.build"><strong>💬 Get involved!</strong></a>
+<a href="https://discord.nitro.build"><strong>💬 Chat</strong></a>
 </p>
