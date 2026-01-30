@@ -1,4 +1,4 @@
-<table>
+<table width="100%">
   <tr>
     <td valign="middle">
       <a href="https://v3.nitro.build" target="_blank" rel="noopener noreferrer">
