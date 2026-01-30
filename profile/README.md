@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td valign="middle">
+<td valign="middle" align="center">
 <img width="400" height="1">
 <br>
 <a href="https://v3.nitro.build" target="_blank" rel="noopener noreferrer">
@@ -15,7 +15,7 @@
 <br>
 <em>Ship Full-Stack Vite Apps!</em>
 </td>
-<td valign="middle" align="right">
+<td valign="middle" align="center">
 <img width="400" height="1">
 <br>
 <a href="https://v3.nitro.build/">Homepage</a>
